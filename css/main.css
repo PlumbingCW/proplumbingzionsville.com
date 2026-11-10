@@ -404,3 +404,4 @@ main p,main li{overflow-wrap:anywhere}
 
 .sources .src-list{list-style:disc;padding-left:20px;margin-top:10px}.sources .src-list li{margin:6px 0;font-size:15.5px}.src-type{color:var(--muted,#5a6b7a);font-size:14px}
 .pagehead p a:not(.btn){color:#8ff0e2;text-decoration:underline}
+.nb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:14px;margin-top:20px}.nb-grid a{display:block;background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px 18px;text-decoration:none;color:var(--ink)}.nb-grid a strong{display:block;font-family:var(--font-head);font-size:18px;margin-bottom:4px;color:var(--ink)}.nb-grid a span{display:block;font-size:15px;color:var(--gray);line-height:1.45}.nb-grid a:hover{border-color:var(--cyan-d)}
